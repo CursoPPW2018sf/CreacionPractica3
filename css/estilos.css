@@ -1,0 +1,74 @@
+#cabecera{
+
+}
+
+#cabecera h1 {
+text-align: center;
+}
+
+#menu {
+
+}
+
+#menu ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: lightsteelblue;
+}
+
+#menu ul li {
+float: left;
+
+}
+
+#menu ul li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+
+}
+
+#menu ul li a:hover {
+background-color: lightseagreen;
+text-decoration: none;
+}
+
+#menu ul li a:focus {
+background-color: lightseagreen;
+text-decoration: none;
+}
+
+
+#contenido {
+text-align: center;
+background-color: #F7DC6F;
+}
+
+#contenido p {
+text-align: center;
+background-color: lightskyblue; 
+}
+
+#contenido h2 {
+text-align: center;
+}
+
+#contenido h3 {
+text-align: center;
+}
+
+#contenido img {
+text-align: center;
+
+}
+
+#contacto {
+text-align: center;
+}
+
+
+
